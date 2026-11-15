@@ -8,7 +8,11 @@
 
 ---
 
-Sou estudante de graduação 🎓 na **[USP São Carlos](https://www.icmc.usp.br/)**, me graduando em Estatística e Ciência de Dados. Sou um entusiasta de dados e tecnologia, e gosto muito de aprender coisas novas. Tenho grande interesse em transformar dados em soluções que gerem impacto.
+Estudante de Estatística e Ciência de Dados no **[ICMC-USP](https://www.icmc.usp.br/)** (São Carlos), com formatura prevista para dez/2028.
+
+Tenho experiência em Machine Learning e análise de dados em Python. Meu projeto mais recente [compara modelos clássicos de NLP com LLMs](https://github.com/imarcososhiro/banking77-pt-classificacao) na classificação de intenções bancárias.
+
+Hoje estou buscando uma oportunidade de estágio na área de Data e Analytics para continuar aprendendo continuamente e me desenvolver profissionalmente, construindo soluções que gerem impacto real.
 
 ---
 
@@ -18,7 +22,7 @@ Sou estudante de graduação 🎓 na **[USP São Carlos](https://www.icmc.usp.br
   <tr>
     <td width="50%" valign="top">
       <h3>🥉 <a href="https://github.com/imarcososhiro/datathon-equifax">Datathon Equifax | Boa Vista</a></h3>
-      <p>Modelo de <b>credit scoring</b> ponta a ponta sobre 350 mil concessões de crédito: seleção de variáveis com IV, WoE e PSI, LightGBM e XGBoost, validação out-of-time e explicação com SHAP.</p>
+      <p>Modelo de <b>credit scoring</b> sobre 350 mil concessões de crédito: seleção de variáveis com IV, WoE e PSI, Regressão Logística, LightGBM e XGBoost, validação out-of-time e explicação com SHAP.</p>
       <p><b>3º lugar</b> e prêmio na Semana da Estatística USP-UFSCar 2026.</p>
     </td>
     <td width="50%" valign="top">
