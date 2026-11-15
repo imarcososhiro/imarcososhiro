@@ -8,13 +8,11 @@
 
 ---
 
-### Um pouco sobre mim <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-
 Sou estudante de graduação 🎓 na **[USP São Carlos](https://www.icmc.usp.br/)**, me graduando em Estatística e Ciência de Dados. Sou um entusiasta de dados e tecnologia, e gosto muito de aprender coisas novas. Tenho grande interesse em transformar dados em soluções que gerem impacto.
 
 ---
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 <table>
   <tr>
@@ -24,16 +22,16 @@ Sou estudante de graduação 🎓 na **[USP São Carlos](https://www.icmc.usp.br
       <p><b>3º lugar</b> e prêmio na Semana da Estatística USP-UFSCar 2026.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🗺️ <a href="https://github.com/imarcososhiro/imobiliario_universitario">Imobiliário Universitário</a></h3>
-      <p>Mapa interativo com <b>2.200+ aluguéis</b> de São Carlos para estudantes da USP e da UFSCar. Um web scraper roda todo dia no GitHub Actions e alimenta um dashboard em Streamlit.</p>
-      <p><a href="https://imobiliariouniversitario.streamlit.app/"><b>▶ Abrir o dashboard</b></a></p>
+      <h3>🗺️ <a href="https://github.com/imarcososhiro/banking77-pt-classificacao">Classificação de Intenções Bancárias com NLP e LLMs</a></h3>
+      <p><b>Quando vale a pena pagar por uma LLM ao em vez de usar um modelo clássico de Machine Learning?</b></p>
+      <p>Neste projeto, comparo a performance de modelos de classificação clássicos de Machine Learning com classificações feitas por LLMs, sobre a base Banking77 em PT-BR, com o objetivo de responder essa pergunta</p>
     </td>
   </tr>
 </table>
 
 ---
+### Algumas ferramentas que utilizo:
 
-### ⚙️ Algumas ferramentas que utilizo:
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python">&nbsp;
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="SQL (PostgreSQL)" title="SQL (PostgreSQL)">&nbsp;
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas">&nbsp;
